@@ -18,7 +18,7 @@
 	</Hotel>
 
 	<Hotel Rating="3.9">
-		<Name>Wyndham Phoenix Airport/Tempe</Name>
+		<Name>Wyndham Phoenix Airport Tempe</Name>
 		<Phone>480-967-6600</Phone>
 		<Phone>480-900-8423</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -156,3 +156,4 @@
 		</Address>
 	</Hotel>
 </Hotels>
+
