@@ -1,5 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			targetNamespace="https://diyajim.github.io/cse445_assignment4"
+			xmlns="https://diyajim.github.io/cse445_assignment4"
+            elementFormDefault="qualified"
+			>
 	<xsd:element name="Hotels">
 		<xsd:complexType>
 			<xsd:sequence>
@@ -35,4 +39,3 @@
 	</xsd:element>
 
 </xsd:schema>
-
