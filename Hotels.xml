@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels 
+	xmlns="https://diyajim.github.io/cse445_assignment4"	
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://diyajim.github.io/cse445_assignment4 https://diyajim.github.io/cse445_assignment4/Hotels.xsd">
+	
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St.</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name>Wyndham Phoenix Airport/Tempe</Name>
+		<Phone>480-967-6600</Phone>
+		<Phone>480-900-8423</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1600</Number>
+			<Street>S. 52nd St.</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.4">
+		<Name>Baymont by Wyndham</Name>
+		<Phone>303-647-5939</Phone>
+		<Address NearestAirport="Denver International Airport">
+			<Number>6805</Number>
+			<Street>Argonne St.</Street>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>80249</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>DoubleTree by Hilton</Name>
+		<Phone>718-457-6300</Phone>
+		<Phone>718-900-3452</Phone>
+		<Address NearestAirport="New York LaGuardia Airport">
+			<Number>104-04</Number>
+			<Street>Ditmars Blvd.</Street>
+			<City>East Elmhurst</City>
+			<State>NY</State>
+			<Zip>11369</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Hilton</Name>
+		<Phone>619-291-6700</Phone>
+		<Address NearestAirport="San Diego Airport">
+			<Number>1960</Number>
+			<Street>Harbor Island Dr.</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92101</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Hampton Inn and Suites</Name>
+		<Phone>206-244-5044</Phone>
+		<Phone>206-553-2342</Phone>
+		<Address NearestAirport="Seattle Airport">
+			<Number>18850</Number>
+			<Street>28th Ave.</Street>
+			<City>SeaTac</City>
+			<State>WA</State>
+			<Zip>98188</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Holiday Inn</Name>
+		<Phone>512-385-8400</Phone>
+		<Address NearestAirport="Austin Airport">
+			<Number>6711</Number>
+			<Street>E. Ben White Blvd.</Street>
+			<City>Austin</City>
+			<State>TX</State>
+			<Zip>78741</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>Hyatt Regency</Name>
+		<Phone>424-702-1234</Phone>
+		<Phone>424-515-4639</Phone>
+		<Address NearestAirport="Los Angeles International Airport">
+			<Number>6225</Number>
+			<Street>W Century Blvd.</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90045</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Airport Plaza Hotel</Name>
+		<Phone>775-348-6870</Phone>
+		<Address NearestAirport="Reno-Tahoe International Airport">
+			<Number>1981</Number>
+			<Street>Terminal Wy. Suite 1</Street>
+			<City>Reno</City>
+			<State>NV</State>
+			<Zip>89502</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Courtyard by Marriott</Name>
+		<Phone>804-652-0500</Phone>
+		<Phone>804-090-5671</Phone>
+		<Address NearestAirport="Richmond Airport">
+			<Number>5400</Number>
+			<Street>Williamsburg Rd.</Street>
+			<City>Sandston</City>
+			<State>VA</State>
+			<Zip>23150</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.3">
+		<Name>Clarion Inn and Suites</Name>
+		<Phone>305-921-4268</Phone>
+		<Phone>305-981-2301</Phone>
+		<Address NearestAirport="Miami International Airport">
+			<Number>5301</Number>
+			<Street>NW 36th St.</Street>
+			<City>Miami Springs</City>
+			<State>FL</State>
+			<Zip>33166</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Comfort Suites</Name>
+		<Phone>813-880-8938</Phone>
+		<Phone>813-233-5499</Phone>
+		<Address NearestAirport="Tampa Airport North">
+			<Number>5241</Number>
+			<Street>W Waters Ave.</Street>
+			<City>Tampa</City>
+			<State>FL</State>
+			<Zip>33634</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
